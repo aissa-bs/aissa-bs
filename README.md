@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BENSADIA AISSA </h1>
-<h3 align="center">A passionate MOBILE Developer | FLUTTER Developer</h3>
+<h3 align="center">A passionate MOBILE / FLUTTER Developer  | Graphic Designer </h3>
 </br>
 </br>
 </br>
