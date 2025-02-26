@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,flutter,dart,flask,git,github,gradle,graphql,html,ai,instagram	,latex,linkedin,mysql,nodejs,npm,postman,postgres,firebase,figma,css,docker,java,apollo,c,cpp,windows,react,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,flutter,dart,flask,git,github,gradle,graphql,html,ai,instagram,latex,linkedin,mysql,nodejs,npm,postman,postgres,firebase,figma,css,docker,java,apollo,c,cpp,windows,react,nodejs,figma&theme=light)](https://skillicons.dev)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aissa-bs&show_icons=true&locale=en&layout=compact" alt="aissa-bs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aissa-bs&show_icons=true&locale=en" alt="aissa-bs" /></p>
